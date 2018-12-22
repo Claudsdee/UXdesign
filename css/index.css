@@ -1,7 +1,7 @@
 #splash {
     display: flex;
     justify-content: center;
-    align-content: space-around;
+    align-content: center;
 }
 
 img {
